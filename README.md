@@ -6,5 +6,3 @@ I have limited subjects (for now) to only two main categories
 ## Web Development / Security
 
 You will find small reusable code snippets, memos and small tutorials via my GitHub account
-
-[View my GitHub account](https://github.com/TrueIndividual/)
